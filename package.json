@@ -1,0 +1,27 @@
+{
+  "name": "@ne-luna/ntl-keys",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest --coverage true"
+  },
+  "keywords": [
+    "keys",
+    "ntl",
+    "ne-luna",
+    "luna"
+  ],
+  "author": "Andenson Silva",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "eslint-plugin-jest": "^26.4.6"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
