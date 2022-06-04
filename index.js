@@ -11,4 +11,4 @@ const ntlSecretsManager = {
     decryptMarvelKeys
 };
 
-module.exports = ntlSecretsManager
+module.exports.ntlSecretsManager = ntlSecretsManager
