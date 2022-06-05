@@ -7,8 +7,6 @@ function decryptMarvelKeys(secret) {
     return code;
 }
 
-const ntlSecretsManager = {
+module.exports = {
     decryptMarvelKeys
-};
-
-module.exports.ntlSecretsManager = ntlSecretsManager
+}

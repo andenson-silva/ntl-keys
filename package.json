@@ -1,7 +1,7 @@
 {
   "name": "@ne-luna/ntl-keys",
-  "version": "0.0.3",
-  "description": "",
+  "version": "0.0.8",
+  "description": "Private key manager",
   "main": "index.js",
   "jest": {
     "verbose": true
